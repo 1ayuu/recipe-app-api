@@ -2,7 +2,11 @@
 .git
 .gitignore
 
+<<<<<<< HEAD
 # Docker
+=======
+# Docker 
+>>>>>>> e81c95072668848f6b4668b740ac1e7866b52e5a
 .docker
 
 # Python
